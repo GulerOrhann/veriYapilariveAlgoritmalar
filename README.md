@@ -1,4 +1,4 @@
-# Patika.devVeriYapilariveAlgoritmalar
+# VeriYapilariveAlgoritmalar
 Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
 
 # Insertion Sort Projesi
